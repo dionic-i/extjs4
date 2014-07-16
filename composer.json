@@ -1,0 +1,33 @@
+{
+	"name"       : "dionic-i/extjs4",
+	"description": "Yii2 extjs4 plugin",
+	"keywords"   : ["yii2", "extjs4", "php"],
+	"homepage"   : "https://github.com/dionic-i/extjs4#readme",
+	"type"       : "library",
+	"license"    : "MIT",
+	"authors"    : [
+		{
+			"name"    : "Ilya Petrushenko",
+			"email"   : "ilya.petrushenko@yandex.ru",
+			"homepage": "http://krasnogvardeec.ru",
+			"role"    : "Creator"
+		}
+	],
+	"support"    : {
+		"source": "https://github.com/dionic-i/extjs4"
+	},
+	"require"    : {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "*"
+	},
+	"autoload"   : {
+		"psr-4": {
+			"dionici\\extjs4\\": ""
+		}
+	},
+	"extra"      : {
+		"branch-alias": {
+			"dev-master": "1.0.0-dev"
+		}
+	}
+}
