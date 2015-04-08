@@ -3,8 +3,9 @@
 	"description": "Yii2 extjs4 plugin",
 	"keywords"   : ["yii2", "extjs4", "php"],
 	"homepage"   : "https://github.com/dionic-i/extjs4#readme",
-	"type"       : "library",
+	"type"       : "project",
 	"license"    : "MIT",
+	"minimum-stability": "stable",
 	"authors"    : [
 		{
 			"name"    : "Ilya Petrushenko",
