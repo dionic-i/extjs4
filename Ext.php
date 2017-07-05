@@ -115,7 +115,7 @@ class Ext
 		// ptype classes
 		'editing'          => 'ExtEditing',
 		'cellediting'      => 'ExtCellEditing',
-		'rowediting'       => 'ExtRowtEditing',
+		'rowediting'       => 'ExtRowtditing',
 
 		// ux
 		'enobjectfield'    => 'EnObjectField',
