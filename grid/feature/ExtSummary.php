@@ -15,7 +15,7 @@ class ExtSummary extends ExtAbstractSummary
 	/**
 	 * @var string
 	 */
-	public $dock;
+	public $dock = 'north';
 
 	public function initComponent()
 	{
