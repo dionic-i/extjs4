@@ -20,7 +20,7 @@ class ExtLabelable extends ExtMixin
 	/**
 	 * @var boolean
 	 */
-	public $activeError;
+	public $activeError = TRUE;
 
 	/**
 	 * @var string/array
