@@ -15,7 +15,7 @@ class ExtColorPicker extends ExtMenu
 	/**
 	 * @var string
 	 */
-	public $pickerId;
+	public $pickerId = 'id';
 
 	public function initComponent()
 	{

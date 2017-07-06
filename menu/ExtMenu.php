@@ -22,7 +22,7 @@ class ExtMenu extends ExtPanel
 	/**
 	 * @var boolean
 	 */
-	public $enableKeyNav;
+	public $enableKeyNav = TRUE;
 
 	/**
 	 * @var boolean
