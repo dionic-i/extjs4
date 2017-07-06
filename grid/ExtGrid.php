@@ -20,7 +20,7 @@ class ExtGrid extends ExtTable
 	/**
 	 * @var array
 	 */
-	public $lockedGridConfig;
+	public $lockedGridConfig = FALSE;
 
 	/**
 	 * @var array
