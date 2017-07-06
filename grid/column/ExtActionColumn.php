@@ -16,7 +16,7 @@ class ExtActionColumn extends ExtColumn
 	/**
 	 * @var string
 	 */
-	public $altText;
+	public $altText = 'no data';
 
 	/**
 	 * @var string
